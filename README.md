@@ -1,6 +1,6 @@
 # Ejercicio.  Uso de BottomNavigation 
 
-En el ejericio se creó una barra de navegación inferior (BottomNavigationView) en donde se 
+En el ejericio se creó una barra de navegación inferior ([BottomNavigationView]()) en donde se 
 agregaron tres menú: home, notificaciones y Configuración. Cuando el usuario selecciona una de esas
 opciones, en la Activity principal se muestra un Fragmento correspondiente a la opción seleccionada.
 
@@ -52,4 +52,10 @@ Se utilizaron los objetos **supportFragmentManager**, **Badges**
 <p>
 <b>Figura 3.</b> Captura de pantalla con la opción Configuración
 </p>
+
+
+1. [Navigation bar] (https://m3.material.io/components/navigation-bar/guidelines) Material Design - Guía de uso
+2. [Bottom navigation] (https://github.com/material-components/material-components-android/blob/master/docs/components/BottomNavigation.md) Android Views (MDC-Android)
+3. [Fragment Manager] (https://developer.android.com/guide/fragments/fragmentmanager?hl=es-419) Como usar el administrador de fragmenttos
+4. [Badge] (https://m3.material.io/components/badges/guidelines) Material Design - Guía de uso
 
