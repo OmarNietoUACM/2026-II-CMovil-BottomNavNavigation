@@ -14,10 +14,6 @@ Se utilizaron los objetos **supportFragmentManager**, **Badges**
 
 
 
-<!--
-![Captura de pantalla de la Activity1](images/Activity1.png 
-"Captura de pantalla de la Activity1")
--->
 
 <div>
     <img src="./images/HomeFragment.png"  alt="Captura de pantalla de la activity principal con la opción Home" width="350" >
@@ -28,13 +24,8 @@ Se utilizaron los objetos **supportFragmentManager**, **Badges**
 
 
 
-<!--
-![Captura de pantalla de la Activity2](images/Activity2.png 
-"Captura de pantalla de la Activity2")
--->
-
 <div>
-    <img src="./images/NotifyFragment.png.png"  alt="Captura de pantalla con la opción Notificaciones (quita el badge)" width="200" >
+    <img src="./images/NotifyFragment.png"  alt="Captura de pantalla con la opción Notificaciones (quita el badge)" width="200" >
 </div>
 <p>
 <b>Figura 2.</b> Captura de pantalla con la opción Notificaciones (se quita el badge)
@@ -47,12 +38,14 @@ Se utilizaron los objetos **supportFragmentManager**, **Badges**
 -->
 
 <div>
-    <img src="./images/SettingFragmetn.png.png"  alt="Captura de pantalla con la opción Configuración" width="200" >
+    <img src="./images/SettingFragmetn.png"  alt="Captura de pantalla con la opción Configuración" width="200" >
 </div>
 <p>
 <b>Figura 3.</b> Captura de pantalla con la opción Configuración
 </p>
 
+
+# Enlaces de referencias
 
 1. [Navigation bar] (https://m3.material.io/components/navigation-bar/guidelines) Material Design - Guía de uso
 2. [Bottom navigation] (https://github.com/material-components/material-components-android/blob/master/docs/components/BottomNavigation.md) Android Views (MDC-Android)
